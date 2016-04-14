@@ -1,0 +1,199 @@
+body{margin:0}
+.mainfull{float:left; width:100%}
+.main1{margin:0 auto; width:1200px}
+.main2{float:left; width:1200px}
+.Navi-hom{float:left; width:700px}
+.main3{float:left; width:1200px}
+.gallery{float:left; width:276px}
+.gallery-div{float:left; width:250px}
+.body-div{float:left; width:800px}
+.our-places{float:left; width:365px}
+.more-div{float:left; width:85px}
+.more{float:left; width:200px}
+.foot-adders{ float:left; width:400px}
+.foot-sym{float:left; width:50px}
+.foot-adrstext{float:left; width:350px}
+.fewwords{float:left; width:800px}
+.img270{float:left; width:300px}
+.main13{float:left; width:700px}
+.main14{float:right; width:400px}
+.main15{float:right; width:370px}
+.main16{float:left; width:600px}
+.main17{float:left; width:300px}
+.body-div1{float:left; width:400px}
+.main18{ float:left; width:35px}
+.main19{float: left; width:300px}
+.main20{float:left; width:250px}
+.main21{float:left; width:380px}
+.main22{float:right; width:380px}
+.main23{float:left; width:345px}
+.logow{float:left; width:450px}
+
+#video
+{padding-top:10px;
+	clear:both;
+height:325px;
+width:100%;
+background-color:#f9dac5;
+
+}
+
+
+
+.navi-ab{float:left; width:88px}
+.navi-ab1{float:left; width:126px}
+.navi-ab2{float:left; width:134px}
+.navi-ab3{float:left; width:123px}
+.navi-ab4{float:left; width:130px}
+
+.innerbg{background:#dfd9c2}
+.bodybg{ background:url(../images/just_some_fun-wallpaper-1920x1080.jpg) repeat}
+.bodybgwht{background:#f9dac5 repeat}
+.bodybg1{background:#74706c repeat}
+.bodybg2{background:url(../../website/images/body-bg.jpg) repeat}
+.font-hom{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#000000; padding:10px 10px; float:left; margin-right: 2px; background:#FFFFFF; border-radius:10px 10px; text-align:center}
+.font-homdup{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#FFFFFF; padding:10px 10px; float:left; margin-right: 2px; background:#FF3300; border-radius:10px 10px; text-align:center}
+.hovernav:hover{background:#FFFFFF; color:#000000}
+.font-hom1{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#FFFFFF; padding:10px 10px; float:left; margin-right: 2px; background:#e29025; border-radius:10px 10px; text-align:center}
+.font-hom1dup{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#000000; padding:10px 10px; float:left; margin-right: 2px; background:#FFFFFF; border-radius:10px 10px; text-align:center}
+
+.font-hom2{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#FFFFFF; padding:10px 10px; float:left; margin-right: 2px; background:#e3b622; border-radius:10px 10px; text-align:center}
+.font-hom3{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#FFFFFF; padding:10px 10px; float:left; margin-right: 2px; background:#97d338; border-radius:10px 10px; text-align:center}
+
+.font-hom4{font-family:Shonar Bangla; font-size:24px; text-decoration:none; color:#FFFFFF; padding:10px 10px; float:left; margin-right: 2px; background:#3fa4ce; border-radius:10px 10px; text-align:center}
+
+.fontthere{ font-family:Aparajita;font-size:50px; line-height:52px; color:#FFFFFF; font-weight:lighter;}
+.fontthere1{font-size:50px; line-height:52px; color:#FFFFFF; font-family:Gautami}
+.fontthere2{font-size:25px; line-height:30px; color:#ede7e7; font-family:Kalinga}
+.socialfont{font-size:30px; line-height:40px; color:#FFFFFF; font-family:Gautami}
+
+.font9{font-family:Verdan; font-size:22px; color:#FFFF00; font-weight:200; padding-bottom:25px;}
+.font111{font-family:Arial; font-size:16px; color:#FFFFFF; text-decoration:none; background:url(../images/marker.png) no-repeat 15px 5px; padding-left:40px;}
+.font-footer{font-family:"Times New Roman", Times, serif; font-size:14px; color:#CCCCCC; }
+.gall-font{font-family: Helvetica, sans-serif; font-size:26px; font-weight:bold; color:#FFFFFF; text-align:center;}
+.gall-font1{font-family:Arial; font-size:12px; color:#000000; text-align:center; padding:25px 13px 25px 13px; text-align:justify}
+.gall-font2{font-family:Verdana; font-size:18px; color:#FFFFFF; font-weight:bold; text-align:center; padding:20px 0px 20px 0px; text-align:center; text-decoration:none}
+.para-font{ font-family:"Times New Roman", Times, serif; font-size:18px; color:#CCCCCC; line-height:20px }
+.our-font{font-family:"Times New Roman"; font-size:45px; font-weight:300; color:#FFFFFF; text-align:center}
+.our-font1{font-family:verdana; font-size:40px; color:#e1d4d4; text-align:center}
+.font-places{font:"Courier New", Courier, monospace; font-size:16px; color:#CCCCCC; text-transform:capitalize; text-align:center}
+.font-more{font-family:Verdana; font-size:12px; color:#000000; text-decoration:none; text-align:center; border-radius:10px; padding:10px 0px}
+.font-ff{font-family:Verdana; font-size:14px; color:#FFFFFF; text-align:center; }
+.galleryfont{font-family:Franklin Gothi; font-size:24px; color:#97d338; text-transform:uppercase}
+.picupfont{font-family:Bell Gothic Std; font-size:18px; color:#FFFF33; }
+.fontthere{ font-family:Aparajita;font-size:50px; line-height:52px; color:#FFFFFF; font-weight:lighter;}
+
+.about-font{font-family:Bell Gothic Std; font-size:28px; color:#FFFFFF; }
+.homeabt-font{font-family:bell gothic std; font-size:14px; text-decoration:none;}
+.font11{font-family:"Times New Roman", Times, serif; font-size:18px; line-height:35px; color:#FFFF33}
+.font12{font-family:Arial; font-size:12px; color:#FFFFFF; text-transform:uppercase}
+.packages-font{font-family:Verdana; font-size:12px; color:#FFFFFF; text-align:justify}
+.fontinner{font-family:"Times New Roman", Times, serif; font-size:14px; color:#333333; text-align:justify; }
+
+.font-morefon:hover{background:#FFFFFF; color:#000000}
+.gall-font2:hover{color:#000000}
+.fonthov:hover{color:#FFFFFF}
+.galleryhov:hover{color:#FFFFFF}
+.font111:hover{background:url(../images/marker.png) no-repeat 20px 5px; text-decoration:underline; color:#FFFFCC}
+
+.bdr-bott{ border-bottom:#FFFFFF 1px solid}
+.about-bdr{border-bottom:#CCCCCC 1px solid}
+
+.margin-lft{margin-right:2px}
+.margin-right{margin-right:32px}
+.margintp{margin-top:-10px}
+.marlft{margin-left:52px}
+.picmargin{margin-right:75px}
+.mar-rgt40{margin-right:40px}
+.mar-rgt25{margin-right:25px}
+.mar-bt50{margin-bottom:75px}
+
+.ourdesbg{background:#FFFF00}
+.bgfooter{background:#4c4947}
+
+.padtp10{padding-top:10px}
+.padtp20{padding-top:20px}
+.cam-mar{margin-top:-158px}
+.padd-topp{padding-top:60px}
+.padd-bt60{padding-bottom:60px}
+.padd-bott{padding-bottom:40px}
+.padd-bott1{padding-bottom:20px}
+.padd-bott10{padding-bottom:10px}
+
+.img{background:url(../images/Untitled-1_02.png) no-repeat; height:138px}
+.color-cam{background:#efc634}
+
+.padd25{padding:25px 25px}
+.inner-padd{padding:15px 15px}
+.paddiong-tp-bt{padding:30px 0px 40px 0px}
+.homeabt-padd{padding:10px 0px 10px 0px}
+.padd-left{padding-left:300px}
+.paddbt20{padding-bottom:15px}
+
+.paddtp100{ padding-top:180px}
+.hello-padd{padding-top:34px}
+
+.paddlft5{padding-left:5px}
+.padd-lft50{padding-left:150px}
+.padd-top20{padding-top:20px}
+
+.hello-padd{padding-top:34px}
+.home-padlft{padding-left:280px}
+.home-padd{padding-top:40px}
+.about-padd{padding:40px 0px 15px 0px}
+
+
+/***** contact form *****/
+#contact-form {
+	display:block;
+	width:100%;
+}
+	#contact-form label {
+		display:block; 
+		height:30px; 
+		overflow:hidden;
+	}
+	#contact-form input {
+		float:left; 
+		width:280px; 
+		font-size:13px; 
+		line-height:1.23em;
+		color:#999;
+		padding:2px 10px; 
+		margin:0; 
+		font-family:Arial, Helvetica, sans-serif; 
+		border:1px solid #ececec; 
+		background:#fff;
+		outline:none;
+	}
+	#contact-form textarea {
+		float:left;
+		height:305px; 
+		min-height:305px; 
+		max-height:305px; 
+		width:500px;
+		max-width:500px;
+		min-width:500px;
+		font-size:13px; 
+		line-height:1.23em;
+		color:#999;
+		padding:5px 10px; 
+		margin:0; 
+		font-family:Arial, Helvetica, sans-serif; 
+		border:1px solid #ececec; 
+		background:#fff;
+		overflow:auto;
+		outline:none;
+	}
+.text-form {
+	float:left; 
+	display:block; 
+	font-size:13px;
+	line-height:24px;
+	width:78px; 
+	color:#999;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.buttons {padding:17px 0 0 0; text-align:right;}
+.buttons a {margin-left:6px;}
